@@ -17,9 +17,9 @@ plugins:
   - jemoji
 
 ## personalize your slide show
-title:       github-slideshow
-author:      GitHubTeacher
-description: A fun activity for learning Git and GitHub.
+title:       My projects  
+author:      Marcus   
+description: These are going to be my project to showcase. 
 
 sass:
   style:     :compressed
