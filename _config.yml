@@ -19,7 +19,7 @@ plugins:
 ## personalize your slide show
 title:       My projects  
 author:      Marcus   
-description: These are going to be my project to showcase. 
+description: These are going to be my projects to showcase. 
 
 sass:
   style:     :compressed
